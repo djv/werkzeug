@@ -33,7 +33,7 @@ Introducing Shortly
 In this tutorial we will together create a simple URL shortener service
 with Werkzeug.  Please keep in mind that Werkzeug is not a framework, it's
 a library with utilities to create your own framework or application and
-as such very flexible.  The approach we use here is just one of many you
+as such is very flexible.  The approach we use here is just one of many you
 can use.
 
 As data store we will use `redis`_ here instead of a relational database
